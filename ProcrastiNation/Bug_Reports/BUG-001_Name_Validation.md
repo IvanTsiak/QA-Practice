@@ -21,4 +21,7 @@
 - Відсутня клієнтська валідація.
 - Відсутня серверна валідація моделі.
 ### Attachments
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e4951769-3362-424e-b0f7-d3706795fa58" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/8ab79e31-f7aa-4571-8b85-88fe93a8e56a" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e0032238-6aba-4f6c-8dd7-fde90bdf9dd5" />
 
