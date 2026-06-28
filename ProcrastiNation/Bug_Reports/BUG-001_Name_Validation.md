@@ -1,9 +1,9 @@
 # Interval Server Error на сторінці реєстрації при введенні 51+ символів у поле "Ім'я"
-**ID**: BUG-001
-**Priority**: High
-**Severity**: High
-**Status**: Open
-**Enviroment**: Brave 1.91.180, Chromium: 149.0.7827.201
+**ID**: BUG-001  
+**Priority**: High  
+**Severity**: High  
+**Status**: Open  
+**Enviroment**: Brave 1.91.180, Chromium: 149.0.7827.201  
 ### Pre-conditions
 1. Користувач не авторизований.
 2. Відкрито сторінку реєстрації.
